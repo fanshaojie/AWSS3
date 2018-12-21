@@ -1,10 +1,10 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'AWSS3'
+  s.name             = 'AWSS3DNSPathStyle'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AWSS3.'
+  s.summary          = 'DNS Path Style of AWSS3.'
   s.description      = <<-DESC
-    support path style
+    DNS Path Style of AWSS3.
                        DESC
 
   s.homepage         = 'https://github.com/fanshaojie/AWSS3'
