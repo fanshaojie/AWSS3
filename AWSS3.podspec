@@ -14,9 +14,9 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'AWSS3/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   s.requires_arc = false
-  s.public_header_files = 'AWSS3/Classes/**/*.h'
+  s.public_header_files = 'Classes/**/*.h'
   s.frameworks = 'Foundation', 'MobileCoreServices'
   s.dependency 'AWSRuntime'
 end

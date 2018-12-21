@@ -18,9 +18,9 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "AWSS3/Classes/**/*",
+  "source_files": "Classes/**/*",
   "requires_arc": false,
-  "public_header_files": "AWSS3/Classes/**/*.h",
+  "public_header_files": "Classes/**/*.h",
   "frameworks": [
     "Foundation",
     "MobileCoreServices"
