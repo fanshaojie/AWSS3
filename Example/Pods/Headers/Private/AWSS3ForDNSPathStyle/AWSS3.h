@@ -1,0 +1,1 @@
+../../../../../AWSS3ForDNSPathStyle/Classes/Amazon.S3/AWSS3.h

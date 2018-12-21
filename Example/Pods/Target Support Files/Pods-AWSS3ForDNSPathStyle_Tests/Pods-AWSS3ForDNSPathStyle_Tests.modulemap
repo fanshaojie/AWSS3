@@ -1,0 +1,6 @@
+framework module Pods_AWSS3ForDNSPathStyle_Tests {
+  umbrella header "Pods-AWSS3ForDNSPathStyle_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
