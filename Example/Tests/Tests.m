@@ -1,8 +1,8 @@
 //
-//  AWSS3Tests.m
-//  AWSS3Tests
+//  AWSS3ForDNSPathStyleTests.m
+//  AWSS3ForDNSPathStyleTests
 //
-//  Created by 502391721@qq.com on 12/19/2018.
+//  Created by 502391721@qq.com on 12/21/2018.
 //  Copyright (c) 2018 502391721@qq.com. All rights reserved.
 //
 

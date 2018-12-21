@@ -1,11 +1,11 @@
 #use_frameworks!
 
-platform :ios, '9.0'
+platform :ios, '8.0'
 
-target 'AWSS3_Example' do
-  pod 'AWSS3', :path => '../'
+target 'AWSS3ForDNSPathStyle_Example' do
+  pod 'AWSS3ForDNSPathStyle', :path => '../'
 
-  target 'AWSS3_Tests' do
+  target 'AWSS3ForDNSPathStyle_Tests' do
     inherit! :search_paths
 
     
