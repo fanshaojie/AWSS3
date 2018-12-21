@@ -1,0 +1,23 @@
+PODS:
+  - AWSRuntime (0.0.2)
+  - AWSS3 (0.1.0):
+    - AWSRuntime
+
+DEPENDENCIES:
+  - AWSS3 (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AWSRuntime
+
+EXTERNAL SOURCES:
+  AWSS3:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AWSRuntime: 11d8a49995089b3c7edce4bea68275e9a3731fc6
+  AWSS3: 45406083f4cd4d129d0e8b4ef97751c937c7c6b7
+
+PODFILE CHECKSUM: 95b632039cd827fd8a93980dc02b60ab53b98c72
+
+COCOAPODS: 1.5.3
